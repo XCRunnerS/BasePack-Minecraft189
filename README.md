@@ -31,7 +31,7 @@ most of the textures you will mess with are in:
 - labeled color files
 - small notes trail
 
-### Credits
+## Credits
 
 XCRunnerS: Uploader + version 1.0.0a
 
