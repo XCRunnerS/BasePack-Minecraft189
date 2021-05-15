@@ -7,7 +7,9 @@ put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepac
 folder name = pack name
 open folder, pack.mcmeta is a text doc to write the description - KEEP everything besides what is in the quotes!
 
-pack.png is a png (thumbnail of the pack), only go up to 64x, others wont display the extra until 4k monitors at the largest GUI scale
+pack.png is a png thumbnail of the pack, only files up to 64x will show all pixels properly on a 1080p monitor
+
+### directories
 
 most of the textures you will mess with are in:
 
@@ -31,6 +33,14 @@ most of the textures you will mess with are in:
 
 ### Credits
 
+XCRunnerS: Uploader + version 1.0.0a
+
 ### Resources
 
-<https://minecraft.gamepedia.com/Formatting_codes>
+- <https://minecraft.gamepedia.com/Formatting_codes> for color codes
+- <https://lospec.com/palette-list> for palettes
+- <https://lospec.com/pixel-editor/app> for a free web-based editor
+- § (symbol for color codes)
+- <https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack> for more technical help on pack making
+- <https://discord.gg/6S7FYTDSy7> for pack community discord
+- `f3 + s` reloads your pack in 1.8.9
