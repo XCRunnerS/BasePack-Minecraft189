@@ -1,8 +1,12 @@
-![thumbnail](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/5ba563ecd05463bac3a9766b8b1247db31a04260/basepackmc189.png)
-
 # Tutorial pack
 
-put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepacks folder, then rightclick, extract here.
+![imagename](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/5ba563ecd05463bac3a9766b8b1247db31a04260/basepackmc189.png)
+
+put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepacks folder, then rightclick, then click extract here
+
+## About
+
+---
 
 ## Info
 
