@@ -1,6 +1,6 @@
 # Tutorial pack
 
-![imagename](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/5ba563ecd05463bac3a9766b8b1247db31a04260/basepackmc189.png)
+![imagename](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/master/mc189thumb.png?raw=true)
 
 ## About
 
