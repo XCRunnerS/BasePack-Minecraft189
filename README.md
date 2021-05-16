@@ -39,7 +39,9 @@ most of the textures you will mess with are in the following folders:
 
 |Name|Coontributions|Media|
 |---|---|---|
-|XCRunnerS|Main Contributor| [Github](https://github.com/XCRunnerS "XCRunner's github")
+|XCRunnerS|Main Contributor| [Github](https://github.com/XCRunnerS "XCRunner's github")|
+|Tryle|Testing|-|
+|17Problemz|Original Requester|-|
 
 ### Resources
 
