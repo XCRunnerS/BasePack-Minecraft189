@@ -30,6 +30,8 @@ most of the textures you will mess with are in:
 - hd font
 - labeled color files
 - small notes trail
+- readme with resources (this file lol)
+- credits.txt template and resources
 
 ## Credits
 
