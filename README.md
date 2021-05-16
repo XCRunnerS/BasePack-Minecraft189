@@ -2,13 +2,9 @@
 
 ![imagename](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/5ba563ecd05463bac3a9766b8b1247db31a04260/basepackmc189.png)
 
-put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepacks folder, then rightclick, then click extract here
-
 ## About
 
----
-
-## Info
+put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepacks folder, then rightclick, then click extract here
 
 folder name = pack name
 open folder, pack.mcmeta is a text doc to write the description - KEEP everything besides what is in the quotes!
