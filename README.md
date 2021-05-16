@@ -4,31 +4,31 @@
 
 ## About
 
-put this (TUTORIAL-BASE pack.zip) file directly into your .minecraft/resourcepacks folder, then rightclick, then click extract here
+put the (TUTORIAL-BASE pack.zip) file directly into your `.minecraft/resourcepacks` folder, then right-click, then click/select `extract here`
 
 folder name = pack name
 open folder, pack.mcmeta is a text doc to write the description - KEEP everything besides what is in the quotes!
 
 pack.png is a png thumbnail of the pack, only files up to 64x will show all pixels properly on a 1080p monitor
 
-### directories
+### Directories
 
-most of the textures you will mess with are in:
+most of the textures you will mess with are in the following folders:
 
-- pack > assets > minecraft > textures > models > armor
-- pack > assets > minecraft > textures > particle
-- pack > assets > minecraft > textures > blocks
-- pack > assets > minecraft > textures > items
-- pack > assets > minecraft > textures > gui
+- `pack > assets > minecraft > textures > models > armor`
+- `pack > assets > minecraft > textures > particle`
+- `pack > assets > minecraft > textures > blocks`
+- `pack > assets > minecraft > textures > items`
+- `pack > assets > minecraft > textures > gui`
 
 ## Features
 
-- sky files (you WILL NEED TO USE A SKY TEMPLATE TO GET DECENT SKIES)
+- sky files **(YOU WILL NEED TO USE A SKY TEMPLATE TO GET DECENT SKY IMAGES)**
 - clear glass
 - clear inventory
 - short swords
 - outlined ores
-- lowfire
+- low-fire
 - hd font
 - labeled color files
 - small notes trail
@@ -37,7 +37,9 @@ most of the textures you will mess with are in:
 
 ## Credits
 
-XCRunnerS: Uploader + version 1.0.0a
+|Name|Coontributions|Media|
+|---|---|---|
+|XCRunnerS|Main Contributor| [Github](https://github.com/XCRunnerS "XCRunner's github")
 
 ### Resources
 
