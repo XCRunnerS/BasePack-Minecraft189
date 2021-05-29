@@ -1,9 +1,10 @@
 # Tutorial pack
 
-![imagename](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/master/mc189thumb.png?raw=true)
+![thumbnail](https://github.com/XCRunnerS/BasePack-Minecraft189/blob/master/mc189thumb.png?raw=true)
 
 ## About
 
+fyi, this is also downloaded and shown as `README.md` and can be opened in any text editor, ignore minor warnings on it!
 put the (TUTORIAL-BASE pack.zip) file directly into your `.minecraft/resourcepacks` folder, then right-click, then click/select `extract here`
 
 folder name = pack name
@@ -23,7 +24,7 @@ most of the textures you will mess with are in the following folders:
 
 ## Features
 
-- sky files **(YOU WILL NEED TO USE A SKY TEMPLATE TO GET DECENT SKY IMAGES)**
+- sky files **(YOU WILL NEED TO USE A SKY TEMPLATE TO GET DECENT SKY IMAGES, THIS IS JUST THE FILES)**
 - clear glass
 - clear inventory
 - short swords
@@ -34,6 +35,11 @@ most of the textures you will mess with are in the following folders:
 - small notes trail
 - readme with resources (this file lol)
 - credits.txt template and resources
+- alternate textures for learning (located in subfolders called `NOTINUSE`)
+
+### `NOTINUSE` Folders
+
+These folders are not meant to be put in the final packs, but are to help you learn more about what some parts of some textures do
 
 ## Credits
 
@@ -49,6 +55,7 @@ most of the textures you will mess with are in the following folders:
 - <https://lospec.com/palette-list> for palettes
 - <https://lospec.com/pixel-editor/app> for a free web-based editor
 - § (symbol for color codes)
+- <https://youtu.be/sgx4OjPwQ80> for sky tutorials and files
 - <https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack> for more technical help on pack making
 - <https://discord.gg/6S7FYTDSy7> for pack community discord
 - `f3 + s` reloads your pack in 1.8.9
