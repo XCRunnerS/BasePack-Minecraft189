@@ -54,7 +54,7 @@ These folders are not meant to be put in the final packs, but are to help you le
 - <https://minecraft.gamepedia.com/Formatting_codes> for color codes
 - <https://lospec.com/palette-list> for palettes
 - <https://lospec.com/pixel-editor/app> for a free web-based editor
-- § (symbol for color codes)
+- `§` (symbol for color codes)
 - <https://youtu.be/sgx4OjPwQ80> for sky tutorials and files
 - <https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack> for more technical help on pack making
 - <https://discord.gg/6S7FYTDSy7> for pack community discord
@@ -65,7 +65,7 @@ These folders are not meant to be put in the final packs, but are to help you le
 
 #### Other Base-Pack
 
-`https://www.mediafire.com/file/dypcsk697dxgnbs/%2521_Base_Pack_16x.zip/file`
+<https://www.mediafire.com/file/dypcsk697dxgnbs/%2521_Base_Pack_16x.zip/file>
 
 #### Manual extraction of jar
 
