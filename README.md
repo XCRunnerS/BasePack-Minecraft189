@@ -5,7 +5,7 @@
 ## About
 
 fyi, this is also downloaded and shown as `README.md` and can be opened in any text editor, ignore minor warnings on it!
-put the (TUTORIAL-BASE pack.zip) file directly into your `.minecraft/resourcepacks` folder, then right-click, then click/select `extract here`
+put the `TUTORIAL-BASE pack.zip` file directly into your `.minecraft/resourcepacks` folder, then right-click, then click/select `extract here`
 
 folder name = pack name
 open folder, pack.mcmeta is a text doc to write the description - KEEP everything besides what is in the quotes!
