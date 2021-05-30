@@ -2,20 +2,17 @@
   / __| _ \ __|   \_ _|_   _/ __|
  | (__|   / _|| |) | |  | | \__ \
   \___|_|_\___|___/___| |_| |___/
-                                 
 ^generatedby https://www.patorjk.com/software/taag/
 
-Main creator: (you)
+Main creator: (you, but delete the parts in parentheses when you publish the pack!)
 Consulting and Testing: (people who tested your pack/gave feedback)
-
 
 Used/Credited (textures youve used)
 basepack: if youre using this ONLY, use (next lines) only:
-base pack: XCRunnerS:	https://github.com/XCRunnerS (acts as my social media hub)
+base pack: XCRunnerS:	https://github.com/XCRunnerS/BasePack-Minecraft189
 base pack: (continued): mojang official 1.14+ textures
-
 
 Links for people Involved/Credited
 
-you:	(media #1 less important)	||	(media#2 more important, or a social media hub)
+you: (media #1 less important OR if they dont have a hub their most popular platform) || (media#2 more important, or a social media hub)
 XCRunnerS: @XCRunnerS#7188 (discord) || https://github.com/XCRunnerS (acts as my social media hub)

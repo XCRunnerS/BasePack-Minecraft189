@@ -35,7 +35,7 @@ most of the textures you will mess with are in the following folders:
 - small notes trail
 - readme with resources (this file lol)
 - credits.txt template and resources
-- alternate textures for learning (located in subfolders called `NOTINUSE`)
+- alternate textures for learning (located in subfolders called `NOTINUSE_{DESC}`) where {desc} is replaced with a short description
 
 ### `NOTINUSE` Folders
 
