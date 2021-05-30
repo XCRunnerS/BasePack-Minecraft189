@@ -12,7 +12,7 @@ open folder, pack.mcmeta is a text doc to write the description - KEEP everythin
 
 pack.png is a png thumbnail of the pack, only files up to 64x will show all pixels properly on a 1080p monitor
 
-### Directories
+## Directories
 
 most of the textures you will mess with are in the following folders:
 
